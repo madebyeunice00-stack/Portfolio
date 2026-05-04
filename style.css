@@ -52,7 +52,7 @@ p, p2 {
 
 p {
   color: rgba(255,255,255,0.488);
-  text-shadow: 1px 1px 3px #fefefe, -7px 0px 5px #000000b0;
+  text-shadow: 1px 1px 5px #ffffff, 1px 1px 5px #ffffff19;
 }
 
 p:hover, .hover-text:hover {
@@ -65,7 +65,7 @@ p2 {
   color: rgba(255,255,255,0.543);
   text-align: justify;
   font-weight: 400;
-  text-shadow: 1px 1px 5px #ffffff, 1px 1px 1px #ffffff;
+  text-shadow: 1px 1px 5px #ffffff, 1px 1px 5px #ffffff19;
 }
 
 detail {
